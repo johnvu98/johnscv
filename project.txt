@@ -1,0 +1,68 @@
+
+## 📱 Projects
+**[GrapeSEED Connect](https://grapeseed.com/vn)** _application for learning english_
+- Developed modules on mobile app, teacher site.
+- Integrated SDKs for streaming.
+- **_Technologies used:_** Vue, React Native, Agora SDK, Zoom SDK, .Net Core.
+
+**[E-Heart]** _medical booking, hospital management_
+- Developed modules on admin site.
+- Maintained and optimized front-end code, backend services.
+- **_Technologies used:_** React, .NET Core, React Native, Firebase, Docker.
+
+**[Mario Framework](https://stage2.marioforme.com/)** _schools management_ 
+- Developed modules on admin dashboard
+- Used AWS S3 to manage files and users
+- **_Technologies used:_** React, .NET Core, AWS S3, IAM, Docker
+
+**[Work Management]()** _projects management_
+- Developed modules on mobile and client site.
+- Used Slack API and Trello API to sync projects, tasks and send messages.
+- **_Technologies used:_** ReactJS, React Native, Grails, Slack API, Trello API, Live-chat Service, NodeJS, MySQL, Elastic Search.
+
+**[The Iconist]()** _media social_
+- Developed modules on the mobile app, admin site.
+- Used Firebase functions to push notifications to user devices.
+- Used Social SDKs to manage user accounts.
+- Used Cloud services to store users medias.
+- **_Technologies used:_** React, Expo, Firebase Authentication, Fire Store, Facebook SDK, Twitter SDK.
+
+**[Dance School](https://www.base23.se/)** _school management_
+- Developed modules on the admin site.
+- Used cloud to store users contents.
+- **_Technologies used:_** React, React Native, .NET Core Entity, Firebase, Elastic Search.
+
+**[Wen-Lambo Dapp](https://coinmarketcap.com/vi/currencies/wen-lambo/)** _blockchain dapp for wen-lambo token_
+- Linked users wallet (trust, metamask) to Dapp to manage tokens/transactions.
+- Linked with 3rd APIs to display token chart, token information, wallets, etc.
+- Created swap feature to create transactions, buy/sell tokens.
+- **_Technologies used:_** React Native, Metamask, Wallet-Connect, 1inch APIs, Ethers, Web3. BSCScans.
+
+**[Miles at sea](https://www.milesatsea.com/)** _distance tracking and logging_
+- Developed modules on the mobile app.
+- Created feature to track users movement to draw routes.
+- **_Technologies used:_** React Native, Firebase, Google Map APIs.
+
+**[Vio Studio](https://prismtechinc.io/)** _manage events around, calendars, promo event, etc_
+- Developed modules on the admin site.
+- Maintained front-end code.
+- **_Technologies used:_** React, Django.
+
+**[Taylormade Golf](https://www.taylormadegolf.com/)** _promo products_
+- Developed modules on mobile, admin site to list and promo customer products
+- **_Technologies used:_** ReactJS, React Native, .NET Core Entity, MySQL.
+
+**[Rosy]()** _social for the elderly_
+- Fixed platforms and client site bugs
+- Wrote unit test for API Services
+- **_Technologies used:_** React, React Native, Electron, Node.
+
+**[Osouji]()** _cleaner booking_
+- Developed modules on mobile, created a native module to use device sensors
+- Maintained front-end code.
+- **_Technologies used:_** React Native, Swift, Java, Google Map SDK.
+
+**[ColorME Hanoi Management](https://colorme.vn/)** _manage employees, students, classes, lessons_
+- Developed modules on mobile
+- Published and managed the mobile application in stores.
+- **_Technologies used:_** React Native, Laravel. -->
